@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=200&section=header&text=Sai%20Srujan%20Tallam&fontSize=48&fontColor=e0e7ff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=200&section=header&text=Srujan%20Tallam&fontSize=48&fontColor=e0e7ff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/Srujan-05">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI+%2F+ML+%7C+RAG+%7C+Agentic+Systems;Full+Stack+Product+Engineering;Turning+Research+Into+Production+Code" alt="Typing SVG"/>
